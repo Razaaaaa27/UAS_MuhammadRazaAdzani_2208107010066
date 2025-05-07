@@ -1,3 +1,6 @@
+# Nama : Muhammad Raza Adzani
+# NPM : 2208107010066
+
 # 📝 Intelligent Email Writer for Students
 
 Proyek ini merupakan aplikasi berbasis Web yang memungkinkan mahasiswa membuat email secara otomatis dan profesional dengan bantuan teknologi Large Language Model (LLM) dari **Gemini API**.
